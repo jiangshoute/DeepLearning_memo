@@ -25,7 +25,7 @@
 </details>
 
 # 2. アプリ性能
-## ・ 精度・照度
+## 精度・照度
 <details open>
     <summary>照度(Lux)</summary>
 
@@ -46,7 +46,7 @@
 </details>
 
 # 3. カメラ設置条件
-## ・ カメラ設置位置
+## カメラ設置位置
 <details open>
     <summary>取付角度・高度</summary>
 
@@ -55,7 +55,7 @@
 </details>
 
 
-## ・ 推奨カメラ画角
+## 推奨カメラ画角
 <details open>
     <summary>垂直画角・水平画角</summary>
 
@@ -67,7 +67,7 @@
 </details>
 
 
-## ・ 検出対象のサイズ
+## 検出対象のサイズ
 <details open>
     <summary>推奨</summary>
 
@@ -82,7 +82,7 @@
 
 </details>
 
-## ・ カメラから検出対象までの距離
+## カメラから検出対象までの距離
 <details open>
     <summary>距離</summary>
 
@@ -97,5 +97,4 @@
 * 1280 x 720(16:9)
 
 </details>
-
 
